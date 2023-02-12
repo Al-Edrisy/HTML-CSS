@@ -1,0 +1,53 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0%;
+}
+
+    body
+    {
+      background-color: rgb(243, 239, 224);
+    }
+    hr
+    {
+      border-width: 8px;
+      border-top-style: dotted;
+      border-left: none;
+      border-bottom: none;
+      border-right: none;
+      border-color: rgb(96, 150, 180, 0.2);
+      width: 16%;
+    }
+h1{color:rgb(31, 138, 112);}
+h3{color:rgb(87, 148, 103)}
+
+
+header
+{
+  height: 100px;
+  background-color: rgb(24, 24, 35);
+  
+}
+header div
+{
+  height: 26px;
+  background-color: #2a2c33;
+}
+
+.left_paragraph
+{
+  background-color:rgb(233, 248, 249);
+  width:500px;
+  margin-left:150px;
+  padding:13px;
+}
+
+.right_paragraph
+{
+  background-color:rgb(233, 248, 249);
+  width:500px;
+  margin-left:750px;
+  border-radius:10px;
+  padding:13px;
+  
+}
