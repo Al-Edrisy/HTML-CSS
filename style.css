@@ -7,6 +7,7 @@ html, body {
     body
     {
       background-color: rgb(243, 239, 224);
+      textaline: center;
     }
     hr
     {
